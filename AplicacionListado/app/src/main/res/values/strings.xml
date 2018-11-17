@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacionListado</string>
+    <string-array name="Departamentos">
+        <item>Sillones y Camas</item>
+        <item>Sillas</item>
+        <item>Mesas</item>
+    </string-array>
+</resources>

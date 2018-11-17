@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LIstApp</string>
+
+    <string-array name="ObjetosdeLista">
+        <item>Silla</item>
+        <item>Sofa</item>
+        <item>Mesa</item>
+    </string-array>
+
+    <string-array name="PrecioObjetos">
+        <item>$200</item>
+        <item>$3000</item>
+        <item>$800</item>
+    </string-array>
+
+    <string-array name="DescripcionObjetos">
+        <item>Silla moderna color caoba</item>
+        <item>Comodo sofa con tela del Mediterraneo</item>
+        <item>Mesa con acabados del meido oriente</item>
+    </string-array>
+</resources>
